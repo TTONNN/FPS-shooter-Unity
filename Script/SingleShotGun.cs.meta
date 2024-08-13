@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 95e1bd29bfdf7d94c8725974a0647d7e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - itemInfo: {instanceID: 0}
+  - itemGameObject: {instanceID: 0}
+  - bulletSpawnPont: {instanceID: 0}
+  - bulletPrefab: {instanceID: 0}
+  - cam: {instanceID: 0}
+  - muzzleFlash: {instanceID: 0}
+  - firesound: {instanceID: 0}
+  - AmmoText: {instanceID: 0}
+  - AmmoLeftText: {instanceID: 0}
+  - mainCam: {instanceID: 0}
+  - sprint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
